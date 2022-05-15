@@ -3,7 +3,7 @@
 **Keypad :** It is a set of keys arranged in a matrix form, where each key represents a particular number or character. Here we use 4x4 keyboard.
 
 ## Connections 
-![this is an image]()
+![this is an image](https://github.com/bhooshan11/INTERFACING-OF-4X4-KEYBOARD-WITH-ESP32/blob/main/keyboard%20connection.jpg)
 
 ## Procedure 
 * Open arduino IDE and write the code
